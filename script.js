@@ -23,7 +23,7 @@ btn.addEventListener('click', () => {
     let y = Math.random() * 100
 
     let rot = Math.random() * 360
-    let scale = Math.random() * 1.5 + 0.5   // better range (0.5 → 2)
+    let scale = Math.random() * 1.5 + 0.5   
 
     let r = Math.floor(Math.random() * 255)
     let g = Math.floor(Math.random() * 255)
